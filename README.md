@@ -1,4 +1,4 @@
-# Customer-Analysis_BigData
+# CustomerAnalysisBigData
 [![Spark](https://img.shields.io/badge/Spark-3.5.1-orange)](https://spark.apache.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.4.2-blue)](https://dev.mysql.com/doc/)
 
